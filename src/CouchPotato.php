@@ -970,7 +970,8 @@ class CouchPotato
      * For the renamer to check for new files to rename in a folder
      *
      * OPTIONAL PARAMETERS
-     * files (string) Provide the release files if more releases are in the same media_folder, delimited with a '|'. Note that no dedicated release folder is expected for releases with one file.
+     * files (string) Provide the release files if more releases are in the same media_folder, delimited with a '|'.
+     *  --- Note that no dedicated release folder is expected for releases with one file.
      * base_folder (string) The folder to find releases in. Leave empty for default folder.
      * download_id (string) The nzb/torrent ID of the release in media_folder. 'downloader' is required with this option.
      * status (string) The status of the release: 'completed' (default) or 'seeding'
