@@ -1,4 +1,4 @@
-# Sonarr
+# CouchPotato
 PHP Wrapper for CouchPotato API https://couchpota.to/
 
 You may view the CouchPotato API documentation by visiting your CouchPotato URL and then appending `/docs` to the URL. Example: `http://127.0.0.1:5050/docs
